@@ -1,0 +1,12 @@
+so if I have classnames --> where 
+1st:  drivespeed?: [257, 360, 400, 450, 600], 
+2nd: wheelsize?:[2, 2.75, 3.25, 4],  
+3rd:size of robot? (a rough estimate of x, y), 
+4th:type of intake?:[banded or flexwheel], 
+5th:what speed of intake? (------ rpm --> integer > 600 for blank), 
+6th:what tier hang letter? [a-h options]. 
+question? : How do implement this especially when 3rd and 5th are free response while the rest have options/classes to pick out of.
+
+
+making class names for each category
+plan:

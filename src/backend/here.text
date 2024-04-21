@@ -1,0 +1,29 @@
+models using ResNet, VGG, or EfficientNet
+
+Define model head
+    +for classification maybe use softmax layer as to put new output neuorons corresponding to certain variables of parameters
+
+data: 
+image 
+associated parameters
+
+Loss function:
+cross-entropy losses (do research)
+
+These steps:
+I need to preproccess my data --> resizing and normalizing images
+
+training:
+based on our data(550-620 data)
+
+evalution:
+based on our data(100-180 other peices of data)
+
+*since our data set is relatively small 
+    +we might need to k-fold meaning cross-validation to ensure performance
+
+//most of these I can use pre-provided functions from tensorflow
+
+
+
+overfitting(during competition(tight space I know :(  but try to catch deterring progress of model to change dataset parameter optimization)))
